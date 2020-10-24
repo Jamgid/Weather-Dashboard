@@ -22,10 +22,10 @@ Weather report for whatever city the user enters in the input box, displaying:
 
 * Credits
 
-  .https://openweathermap.org/api
-  .https://getbootstrap.com/docs/4.5/getting-started/introduction/
-  .https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
-  .https://fontawesome.com/
+  - https://openweathermap.org/api
+  - https://getbootstrap.com/docs/4.5/getting-started/introduction/
+  - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
+  - https://fontawesome.com/
 
 
 
